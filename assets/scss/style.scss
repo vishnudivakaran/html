@@ -1,0 +1,38 @@
+@font-face {
+    font-family: 'Dzain';
+    font-weight: 400;
+    src: url('../font/DzainReporter600Rg.woff') format('woff2');
+}
+
+@font-face {
+    font-family: 'Dzain';
+    font-weight: 600;
+    src: url('../font/DzainReporter600Bk.woff') format('woff2');
+}
+
+@font-face {
+    font-family: 'Dzain';
+    font-weight: 700;
+    src: url('../font/DzainReporter600Bd.woff') format('woff2');
+}
+@font-face {
+    font-family: 'Dzain';
+    font-weight: 800;
+    src: url('../font/DzainReporter600ExBd.woff') format('woff2');
+}
+
+
+
+
+
+@import "./global.scss";
+@import "./header.scss";
+@import "./footer.scss";
+@import "./index.scss";
+@import "./subcategory-listing.scss"; 
+@import "./contact.scss";  
+@import "./privacy.scss";  
+@import "./advertise.scss"; 
+@import "./sign-in.scss"; 
+@import "./special-pages.scss"; 
+@import "./news-detail.scss"; 
